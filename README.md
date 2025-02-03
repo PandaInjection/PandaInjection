@@ -1,6 +1,6 @@
-# 👋 Hello there! I'm [Your Name] 
+# 👋 Hello fellas! I'm PandaInjection
 
-Welcome to my GitHub! I'm a passionate [Your Role] with a love for creating efficient, scalable, and beautiful code. I'm constantly exploring new technologies and building projects that challenge my creativity and expand my skill set.
+Welcome to my GitHub! I'm a passionate programmer with a love for finding ways to make code as secure as possible. I'm constantly exploring new technologies and building projects that challenge my creativity and expand my skill set.
 
 ---
 
@@ -22,9 +22,9 @@ Welcome to my GitHub! I'm a passionate [Your Role] with a love for creating effi
 
 ### 🚀 I'm currently working on
 
-- Building an e-commerce website using **React** and **Node.js**.
-- Contributing to several **open-source** projects, including [Project Name] and [Project Name].
-- Learning **GraphQL** and **Serverless architecture**.
+- Some weird shush nobody know about anything yet
+- Learning how to build secure programs
+- Learning about large language models
 - Exploring **AI** with Python.
 
 ---
