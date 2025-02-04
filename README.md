@@ -1,3 +1,4 @@
+<div style="background-color: lightblue; padding: 10px; border-radius: 10px;">
 # 👋 Hello fellas! I'm PandaInjection
 
 Welcome to my GitHub! I'm a passionate programmer with a love for finding ways to make code as secure as possible. I'm constantly exploring new technologies and building projects that challenge my creativity and expand my skill set.
@@ -68,5 +69,6 @@ Welcome to my GitHub! I'm a passionate programmer with a love for finding ways t
 - I have a collection of vintage tech gadgets! 
 
 Thanks for checking out my profile. Don’t hesitate to reach out if you'd like to collaborate, chat about tech, or share cool ideas!
+</div>
 
 
